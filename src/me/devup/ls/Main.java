@@ -1,4 +1,4 @@
-package com.devup.lootsteal;
+package com.devup.ls;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Entity;
