@@ -1,0 +1,8 @@
+# Below is the message sent to the user to warn them their loot is no longer protected.
+Message: '&7Your loot is no longer protected.'
+
+# Below is the total time loot remains protected for. This is handled in seconds.
+Time: 10
+
+# If set to true, the player that deals the most damage is awarded the items.
+DamageCheck: false
